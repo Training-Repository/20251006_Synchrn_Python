@@ -35,3 +35,9 @@ s2.update(['b', 'c', 's'])
 
 print(s5 & s2)
 print(s5.intersection(s2))
+
+print(s2 | s5, s2.union(s5))
+
+print(s5 - s2, s5.difference(s2))
+print(s5 ^ s2, s5.symmetric_difference(s2))
+
