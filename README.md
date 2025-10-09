@@ -7,3 +7,6 @@
 * [String](https://docs.python.org/3/reference/lexical_analysis.html#lexical-analysis)
     * [Escape Sequences](https://docs.python.org/3/reference/lexical_analysis.html#escape-sequences)
     * [Format Specifiers](https://docs.python.org/3/library/string.html#format-specification-mini-language)
+
+## Operations
+* [Training Feedback](https://forms.gle/m21FHT16xExrgSzF7)
